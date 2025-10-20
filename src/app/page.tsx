@@ -150,7 +150,7 @@ export default function About() {
             </Heading>
             <Text
               className={styles.textAlign}
-              variant="display-default-xs"
+              variant="display-default-m"
               onBackground="neutral-weak"
             >
               {person.role}
