@@ -14,7 +14,7 @@ import {
 
 
 // IMPORTANT: Replace with your own domain address - it's used for SEO in meta tags and schema
-const baseURL: string = "https://ashilrahim.vercel.app/";
+const baseURL: string = "https://ashilrahim.vercel.app";
 
 const routes: RoutesConfig = {
   "/": true,
