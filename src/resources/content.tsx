@@ -152,6 +152,7 @@ const about: About = {
           { name: "Git", icon: "git" },
           { name: "GitHub", icon: "github" },
           { name: "VS Code", icon: "vscode" },
+          { name: "Wordpress", icon: "wordpress" },
           { name: "Postman", icon: "postman" },
           { name: "Vercel", icon: "vercel" },
           { name: "Cursor", icon: "cursor" },
